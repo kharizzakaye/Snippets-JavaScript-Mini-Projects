@@ -1,2 +1,2 @@
 # JavaScript-mini-projects
-A collection of mini projects created using javaScript.
+A collection of mini projects created using JavaScript.
